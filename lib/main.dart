@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // Importando o pacote material, que contém os widgets do Flutter
-import 'package:aula10crud/DatabaseHelper.dart';
+import 'package:aula10crud/databasenovo.dart';
 // Importando o arquivo database_helper.dart para gerenciar o banco de dados
 import 'package:aula10crud/task_model.dart';
 // Importando o arquivo task_model.dart que define o modelo de tarefa
